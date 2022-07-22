@@ -1,9 +1,9 @@
-# jan-ken-fw
+# jankenfw
 
-[![Build Status](https://travis-ci.org/Razhelq/jan-ken-fw.svg?branch=master)](https://travis-ci.org/Razhelq/jan-ken-fw)
+[![Build Status](https://travis-ci.org/Razhelq/jankenfw.svg?branch=master)](https://travis-ci.org/Razhelq/jankenfw)
 [![Built with](https://img.shields.io/badge/Built_with-Cookiecutter_Django_Rest-F7B633.svg)](https://github.com/agconti/cookiecutter-django-rest)
 
-Rock Paper Scissors game API. Check out the project's [documentation](http://Razhelq.github.io/jan-ken-fw/).
+Rock Paper Scissors game. Check out the project's [documentation](http://Razhelq.github.io/jankenfw/).
 
 # Prerequisites
 

@@ -1,6 +1,6 @@
-site_name: jan-ken-fw
+site_name: jankenfw
 site_description: Rock Paper Scissors game API.
-repo_url: https://github.com/Razhelq/jan-ken-fw
+repo_url: https://github.com/Razhelq/jankenfw
 site_dir: site
 copyright: Copyright &copy; 2020, <a href="https://github.com/Razhelq">Razhelq</a>.
 dev_addr: 0.0.0.0:8001

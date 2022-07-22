@@ -5,6 +5,6 @@ omit = *migrations*,
        *test*,
        *admin*,
        ./manage.py,
-       ./jan-ken-fw/config/*,
-       ./jan-ken-fw/wsgi.py,
+       ./jankenfw/config/*,
+       ./jankenfw/wsgi.py,
        *__init__*
